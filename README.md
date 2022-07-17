@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 In my free time, I currently work on migrating all of my past projects to GitHub. This takes time, because some of them were written in 2012, but as they're still relevant, I'd like to share them with you!
-- 🌱 I’m currently learning Go. I'd also like to improve my Rust skills and showcase them.
+- 🌱 I currently learn Go. I'd also like to improve my Rust skills and showcase them.
 
 <!--
 **mwojciga/mwojciga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
